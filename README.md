@@ -56,7 +56,9 @@
     Pulls down from a specified remote (Specified by the user) and will instantly merge it into a branch we are present on. It is basically a mix of Fetch and Merge commands.
     git pull master origin
 
-
+<br />
+<br />
+<br />
 
 ## Commands to create git repo locally and push it into github.
 
@@ -75,8 +77,8 @@
     Here we just need to commit right away and we don't need to add (-a) as it has already been added.
     git commit -m "Message for commit."
     
-####### Till here the changes are not committed to the github all the canges are still in local git repro.
-######## Create a git repo in the github website.
+###### Till here the changes are not committed to the github all the canges are still in local git repro.
+###### Create a git repo in the github website.
 
 ### 4. git remote add:
     
@@ -88,7 +90,9 @@
     Push all the changes from local machine into the new github repo that was created.
     git push newOrigin master
 
-
+<br />
+<br />
+<br />
 
 ## Commands to update a for that we have in github.
 
